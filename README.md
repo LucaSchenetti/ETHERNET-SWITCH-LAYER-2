@@ -1,4 +1,4 @@
-# ETHERNET-SWITCH-LAYER-2
+ETHERNET-SWITCH-LAYER-2
 🧠 STM32-Based Layer 2 Ethernet Switch
 This project implements a custom Layer 2 Ethernet switch using an STM32 microcontroller as the main interface between the user and two Ethernet PHY/switch chips: the Microchip KSZ8795 and the Realtek RTL8211F.
 
@@ -12,6 +12,8 @@ RTL8211F provides Gigabit Ethernet PHY functionality.
 Custom firmware for communication and control via SPI, MDIO, or other interfaces.
 
 Potential for VLAN, QoS, and port monitoring features depending on firmware implementation.
+
+Powered via USB-C or external power supply (up to 28V DC).
 
 🚀 Applications
 Embedded networking devices
