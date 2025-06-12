@@ -1,0 +1,168 @@
+Removed Pin From Net: NetName=+3V3 Pin=C54-2
+Removed Pin From Net: NetName=+3V3 Pin=C65-2
+Removed Pin From Net: NetName=MCU_OSC_OUT Pin=C68-2
+Removed Pin From Net: NetName=CIRCUIT_NRST Pin=D4-A
+Removed Pin From Net: NetName=KSZ_RST Pin=D4-K
+Removed Pin From Net: NetName=CIRCUIT_NRST Pin=D5-A
+Removed Pin From Net: NetName=RTL_RST Pin=D5-K
+Removed Pin From Net: NetName=RJ45_4_LED_G Pin=J5-11
+Removed Pin From Net: NetName=GND Pin=J5-12
+Removed Pin From Net: NetName=RTL_LED2 Pin=R30-1
+Removed Pin From Net: NetName=RJ45_4_LED_G Pin=R30-2
+Removed Pin From Net: NetName=MCU_OSC_IN Pin=R57-2
+Removed Pin From Net: NetName=RTL_RST Pin=R59-1
+Removed Pin From Net: NetName=GND Pin=U4-36
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=CIRCUIT_NRST Pin=U5-2
+Removed Pin From Net: NetName=+3V3 Pin=U5-3
+Removed Pin From Net: NetName=RTL_INTB_PMEB Pin=U8-3
+Removed Pin From Net: NetName=RTL_RST Pin=U8-4
+Removed Pin From Net: NetName=MCU_MDC Pin=U8-9
+Removed Pin From Net: NetName=GND Pin=U8-12
+Removed Pin From Net: NetName=+3V3 Pin=U8-13
+Removed Pin From Net: NetName=MCU_MDIO Pin=U8-16
+Removed Pin From Net: NetName=GND Pin=U8-18
+Removed Pin From Net: NetName=+3V3 Pin=U8-19
+Removed Pin From Net: NetName=MCU_SPI_CS Pin=U8-20
+Removed Pin From Net: NetName=MCU_SPI_SCK_R Pin=U8-21
+Removed Pin From Net: NetName=MCU_SPI_MISO_R Pin=U8-22
+Removed Pin From Net: NetName=MCU_SPI_MOSI_R Pin=U8-23
+Removed Pin From Net: NetName=KSZ_PME_N Pin=U8-29
+Removed Pin From Net: NetName=KSZ_RST Pin=U8-30
+Removed Pin From Net: NetName=GND Pin=U8-31
+Removed Pin From Net: NetName=+3V3 Pin=U8-32
+Removed Pin From Net: NetName=MCU_LEDR Pin=U8-37
+Removed Pin From Net: NetName=MCU_LEDG Pin=U8-38
+Removed Pin From Net: NetName=MCU_LEDB Pin=U8-39
+Removed Pin From Net: NetName=USB-C_MCU_D_N Pin=U8-44
+Removed Pin From Net: NetName=USB-C_MCU_D_P Pin=U8-45
+Removed Pin From Net: NetName=MCU_SWDIO Pin=U8-46
+Removed Pin From Net: NetName=MCU_SWCLK Pin=U8-49
+Removed Pin From Net: NetName=MCU_SWO Pin=U8-55
+Removed Pin From Net: NetName=MCU_BOOT0 Pin=U8-60
+Removed Pin From Net: NetName=GND Pin=U8-63
+Removed Pin From Net: NetName=+3V3 Pin=U8-64
+Removed Pin From Net: NetName=MCU_OSC_OUT Pin=X2-1
+Removed Member From Class: ClassName=MCU Member=C54
+Removed Member From Class: ClassName=MCU Member=C65
+Removed Member From Class: ClassName=PHY_ETH Member=C70
+Removed Member From Class: ClassName=Switch_ETH Member=D4
+Removed Member From Class: ClassName=PHY_ETH Member=D5
+Removed Member From Class: ClassName=Switch_ETH Member=R7
+Removed Member From Class: ClassName=PHY_ETH Member=R59
+Change Component Footprint: Designator=C65 Old Footprint=CAP_0603 New Footprint=CAP_0402
+Change Component Footprint: Designator=C70 Old Footprint=CAP_0603 New Footprint=CAP_0402
+Change Component Footprint: Designator=U5 Old Footprint=MAX809T New Footprint=SN74LVC1G08DBVR
+Change Component Footprint: Designator=R59 Old Footprint=RES_0603 New Footprint=RES_0402
+Change Component Footprint: Designator=U8 Old Footprint=STM32F107RCT6 New Footprint=STM32F411CEU6
+Change Component Comment : Designator=R57 Old Comment=0R New Comment=1k
+Change Component Comment : Designator=R30 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=R34 Old Comment=1K New Comment=510R
+Change Component Comment : Designator=C70 Old Comment=10u New Comment=100n
+Change Component Comment : Designator=R59 Old Comment=21K5 New Comment=0R
+Change Component Comment : Designator=R7 Old Comment=22R New Comment=0R
+Change Component Comment : Designator=C54 Old Comment=100n New Comment=15p
+Change Component Comment : Designator=C65 Old Comment=100n New Comment=15p
+Change Component Comment : Designator=U8 Old Comment=256KB ARM-M3 72MHz New Comment=ARM® Cortex®-M4 STM32F4
+Change Component Comment : Designator=U5 Old Comment=ACTIVE LOW RESET 3.08V New Comment=AND GATE
+Added Component: Designator=C71(CAP_0402)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C72(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SN74LVC1G08DBVR)
+Added Component: Designator=X3(XTAL_3225)
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TSX-3225 24.0000MF15X-AC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_OSC_IN Pin=C69-2
+Added Pin To Net: NetName=+3V3 Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=+3V3 Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=RTL_LED2 Pin=J5-11
+Added Pin To Net: NetName=RJ45_4_LED_G Pin=J5-12
+Added Pin To Net: NetName=RJ45_4_LED_G Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=CIRCUIT_NRST Pin=R57-1
+Added Pin To Net: NetName=+3V3 Pin=R57-2
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=R59-2
+Added Pin To Net: NetName=RTL_RST Pin=U4-12
+Added Pin To Net: NetName=CIRCUIT_NRST Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=KSZ_RST Pin=U5-4
+Added Pin To Net: NetName=+3V3 Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U8-8
+Added Pin To Net: NetName=+3V3 Pin=U8-9
+Added Pin To Net: NetName=MCU_LEDR Pin=U8-10
+Added Pin To Net: NetName=MCU_LEDG Pin=U8-11
+Added Pin To Net: NetName=MCU_LEDB Pin=U8-12
+Added Pin To Net: NetName=MCU_SPI_CS Pin=U8-14
+Added Pin To Net: NetName=MCU_SPI_SCK_R Pin=U8-15
+Added Pin To Net: NetName=MCU_SPI_MISO_R Pin=U8-16
+Added Pin To Net: NetName=MCU_SPI_MOSI_R Pin=U8-17
+Added Pin To Net: NetName=MCU_MDC Pin=U8-19
+Added Pin To Net: NetName=MCU_MDIO Pin=U8-20
+Added Pin To Net: NetName=GND Pin=U8-23
+Added Pin To Net: NetName=+3V3 Pin=U8-24
+Added Pin To Net: NetName=KSZ_PME_N Pin=U8-27
+Added Pin To Net: NetName=RTL_INTB_PMEB Pin=U8-29
+Added Pin To Net: NetName=+3V3 Pin=U8-30
+Added Pin To Net: NetName=USB-C_MCU_D_N Pin=U8-32
+Added Pin To Net: NetName=USB-C_MCU_D_P Pin=U8-33
+Added Pin To Net: NetName=MCU_SWDIO Pin=U8-34
+Added Pin To Net: NetName=GND Pin=U8-35
+Added Pin To Net: NetName=+3V3 Pin=U8-36
+Added Pin To Net: NetName=MCU_SWCLK Pin=U8-37
+Added Pin To Net: NetName=MCU_SWO Pin=U8-39
+Added Pin To Net: NetName=MCU_BOOT0 Pin=U8-44
+Added Pin To Net: NetName=GND Pin=U8-49
+Added Pin To Net: NetName=CIRCUIT_NRST Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=RTL_RST Pin=U9-4
+Added Pin To Net: NetName=+3V3 Pin=U9-5
+Added Pin To Net: NetName=MCU_OSC_IN Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Pin To Net: NetName=MCU_KSZ_RST Pin=U5-2
+Added Pin To Net: NetName=MCU_KSZ_RST Pin=U8-26
+Added Net: Name=MCU_KSZ_RST
+Added Pin To Net: NetName=MCU_RTL_RST Pin=U8-25
+Added Pin To Net: NetName=MCU_RTL_RST Pin=U9-2
+Added Net: Name=MCU_RTL_RST
+Added Pin To Net: NetName=NetC68_2 Pin=C68-2
+Added Pin To Net: NetName=NetC68_2 Pin=R59-1
+Added Pin To Net: NetName=NetC68_2 Pin=X2-1
+Added Net: Name=NetC68_2
+Added Pin To Net: NetName=NetC72_2 Pin=C72-2
+Added Pin To Net: NetName=NetC72_2 Pin=U8-22
+Added Net: Name=NetC72_2
+Added Pin To Net: NetName=RTL_OSC_IN Pin=R7-2
+Added Pin To Net: NetName=RTL_OSC_IN Pin=U4-36
+Added Net: Name=RTL_OSC_IN
+Added Pin To Net: NetName=RTL_OSC_OUT Pin=C65-2
+Added Pin To Net: NetName=RTL_OSC_OUT Pin=U4-37
+Added Pin To Net: NetName=RTL_OSC_OUT Pin=X3-1
+Added Net: Name=RTL_OSC_OUT
+Added Pin To Net: NetName=XTAL_IN_RTL Pin=C54-2
+Added Pin To Net: NetName=XTAL_IN_RTL Pin=R7-1
+Added Pin To Net: NetName=XTAL_IN_RTL Pin=X3-3
+Added Net: Name=XTAL_IN_RTL
+Added Member To Class: ClassName=PHY_ETH Member=Component C54 15p
+Added Member To Class: ClassName=PHY_ETH Member=Component C65 15p
+Added Member To Class: ClassName=MCU Member=Component C70 100n
+Added Member To Class: ClassName=MCU Member=Component C71 100n
+Added Member To Class: ClassName=MCU Member=Component C72 4u7
+Added Member To Class: ClassName=PHY_ETH Member=Component R7 0R
+Added Member To Class: ClassName=MCU Member=Component R59 0R
+Added Member To Class: ClassName=MCU Member=Component U9 AND GATE
+Added Member To Class: ClassName=PHY_ETH Member=Component X3 25MHz

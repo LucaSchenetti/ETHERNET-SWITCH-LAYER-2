@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RTL_TXD_2 Pin=R13-1
+Removed Pin From Net: NetName=RTL_TXD_2 Pin=U4-15
+Added Pin To Net: NetName=RTL_TXD_3 Pin=R13-1
+Added Pin To Net: NetName=RTL_TXD_3 Pin=U4-15
+Added Net: Name=RTL_TXD_3
+Added Member To Class: ClassName=GRMII_TX Member=Wire RTL_TXD_3

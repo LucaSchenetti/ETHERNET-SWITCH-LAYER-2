@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ETH_MDI0_P Pin=TVS5-1
+Removed Pin From Net: NetName=GND Pin=TVS5-2
+Removed Pin From Net: NetName=ETH_MDI1_P Pin=TVS5-3
+Removed Pin From Net: NetName=ETH_MDI1_N Pin=TVS5-4
+Removed Pin From Net: NetName=ETH_MDI0_N Pin=TVS5-6
+Removed Pin From Net: NetName=ETH_MDI2_P Pin=TVS6-1
+Removed Pin From Net: NetName=GND Pin=TVS6-2
+Removed Pin From Net: NetName=ETH_MDI3_P Pin=TVS6-3
+Removed Pin From Net: NetName=ETH_MDI3_N Pin=TVS6-4
+Removed Pin From Net: NetName=ETH_MDI2_N Pin=TVS6-6
+Removed Member From Class: ClassName=PHY_ETH Member=TVS5
+Removed Member From Class: ClassName=PHY_ETH Member=TVS6

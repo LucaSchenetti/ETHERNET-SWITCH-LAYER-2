@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=COVER PAGE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=KSZ - ETH HUB.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=POWER RAIL.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=RTL - ETH PHY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=COVER PAGE.SchDoc|FileName=STM32 - MCU.SchDoc|SheetNumber=5

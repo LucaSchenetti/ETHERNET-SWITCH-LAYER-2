@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=RTL_TX_CTL Pin=R8-1
+Removed Pin From Net: NetName=KSZ_TXD5_CTL Pin=R8-2
+Removed Pin From Net: NetName=KSZ_TXD5_0 Pin=R9-2
+Removed Pin From Net: NetName=KSZ_TXD5_1 Pin=R10-2
+Removed Pin From Net: NetName=KSZ_TXD5_2 Pin=R11-2
+Removed Pin From Net: NetName=KSZ_TXD5_3 Pin=R13-2
+Removed Pin From Net: NetName=RTL_TXC Pin=R15-1
+Removed Pin From Net: NetName=KSZ_GTXC5 Pin=R15-2
+Removed Pin From Net: NetName=RTL_RXD2 Pin=R27-1
+Removed Pin From Net: NetName=DVDD_RG Pin=R27-2
+Removed Pin From Net: NetName=KSZ_RXD5_0 Pin=R31-1
+Removed Pin From Net: NetName=KSZ_RXD5_1 Pin=R32-1
+Removed Pin From Net: NetName=KSZ_RXD5_2 Pin=R33-1
+Removed Pin From Net: NetName=KSZ_RXD5_3 Pin=R35-1
+Removed Pin From Net: NetName=KSZ_RXD5_CTL Pin=R36-1
+Removed Pin From Net: NetName=KSZ_GRXC5 Pin=R37-1
+Removed Member From Class: ClassName=GRMII_RX Member=RTL_RXC
+Removed Member From Class: ClassName=GRMII_RX Member=RTL_RXCTL
+Removed Member From Class: ClassName=GRMII_RX Member=RTL_RXD0
+Removed Member From Class: ClassName=GRMII_RX Member=RTL_RXD1
+Removed Member From Class: ClassName=GRMII_RX Member=RTL_RXD2
+Removed Member From Class: ClassName=GRMII_RX Member=RTL_RXD3
+Added Pin To Net: NetName=RTL_TXC Pin=R8-1
+Added Pin To Net: NetName=KSZ_GRXC5 Pin=R8-2
+Added Pin To Net: NetName=KSZ_RXD5_0 Pin=R9-2
+Added Pin To Net: NetName=KSZ_RXD5_1 Pin=R10-2
+Added Pin To Net: NetName=KSZ_RXD5_2 Pin=R11-2
+Added Pin To Net: NetName=RTL_TXD_2 Pin=R13-1
+Added Pin To Net: NetName=KSZ_RXD5_3 Pin=R13-2
+Added Pin To Net: NetName=RTL_TX_CTL Pin=R15-1
+Added Pin To Net: NetName=KSZ_RXD5_CTL Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=RTL_RXD2 Pin=R27-2
+Added Pin To Net: NetName=KSZ_TXD5_0 Pin=R31-1
+Added Pin To Net: NetName=KSZ_TXD5_1 Pin=R32-1
+Added Pin To Net: NetName=KSZ_TXD5_2 Pin=R33-1
+Added Pin To Net: NetName=KSZ_TXD5_3 Pin=R35-1
+Added Pin To Net: NetName=KSZ_TXD5_CTL Pin=R36-1
+Added Pin To Net: NetName=KSZ_GTXC5 Pin=R37-1
+Added Pin To Net: NetName=RTL_TXD_2 Pin=U4-15
+Change Class Name : Old Net Name=GRMII_RX New Net Name=GRMII_TX
+Added Class: Name=GRMII_RX
+Added Member To Class: ClassName=GRMII_TX Member=Wire RTL_TX_CTL
+Added Member To Class: ClassName=GRMII_TX Member=Wire RTL_TXC
+Added Member To Class: ClassName=GRMII_TX Member=Wire RTL_TXD_0
+Added Member To Class: ClassName=GRMII_TX Member=Wire RTL_TXD_1
+Added Member To Class: ClassName=GRMII_TX Member=Wire RTL_TXD_2
+Added Rule: Name=Schematic Matched Net Lengths_2

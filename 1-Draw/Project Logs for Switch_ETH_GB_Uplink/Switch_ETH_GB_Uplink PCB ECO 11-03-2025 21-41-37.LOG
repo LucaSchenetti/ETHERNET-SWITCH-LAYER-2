@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=RTL_TXC Pin=R8-1
+Removed Pin From Net: NetName=KSZ_GRXC5 Pin=R8-2
+Removed Pin From Net: NetName=KSZ_RXD5_0 Pin=R9-2
+Removed Pin From Net: NetName=KSZ_RXD5_1 Pin=R10-2
+Removed Pin From Net: NetName=KSZ_RXD5_2 Pin=R11-2
+Removed Pin From Net: NetName=KSZ_RXD5_3 Pin=R13-2
+Removed Pin From Net: NetName=RTL_TX_CTL Pin=R15-1
+Removed Pin From Net: NetName=KSZ_RXD5_CTL Pin=R15-2
+Removed Pin From Net: NetName=KSZ_TXD5_0 Pin=R31-1
+Removed Pin From Net: NetName=KSZ_TXD5_1 Pin=R32-1
+Removed Pin From Net: NetName=KSZ_TXD5_2 Pin=R33-1
+Removed Pin From Net: NetName=KSZ_TXD5_3 Pin=R35-1
+Removed Pin From Net: NetName=KSZ_TXD5_CTL Pin=R36-1
+Removed Pin From Net: NetName=KSZ_GTXC5 Pin=R37-1
+Removed Member From Class: ClassName=GRMII_TX Member=KSZ_GRXC5
+Removed Member From Class: ClassName=GRMII_RX Member=KSZ_GTXC5
+Removed Member From Class: ClassName=GRMII_TX Member=KSZ_RXD5_0
+Removed Member From Class: ClassName=GRMII_TX Member=KSZ_RXD5_1
+Removed Member From Class: ClassName=GRMII_TX Member=KSZ_RXD5_2
+Removed Member From Class: ClassName=GRMII_TX Member=KSZ_RXD5_3
+Removed Member From Class: ClassName=GRMII_TX Member=KSZ_RXD5_CTL
+Removed Member From Class: ClassName=GRMII_RX Member=KSZ_TXD5_0
+Removed Member From Class: ClassName=GRMII_RX Member=KSZ_TXD5_1
+Removed Member From Class: ClassName=GRMII_RX Member=KSZ_TXD5_2
+Removed Member From Class: ClassName=GRMII_RX Member=KSZ_TXD5_3
+Removed Member From Class: ClassName=GRMII_RX Member=KSZ_TXD5_CTL
+Added Pin To Net: NetName=RTL_TX_CTL Pin=R8-1
+Added Pin To Net: NetName=KSZ_TXD5_CTL Pin=R8-2
+Added Pin To Net: NetName=KSZ_TXD5_0 Pin=R9-2
+Added Pin To Net: NetName=KSZ_TXD5_1 Pin=R10-2
+Added Pin To Net: NetName=KSZ_TXD5_2 Pin=R11-2
+Added Pin To Net: NetName=KSZ_TXD5_3 Pin=R13-2
+Added Pin To Net: NetName=RTL_TXC Pin=R15-1
+Added Pin To Net: NetName=KSZ_GTXC5 Pin=R15-2
+Added Pin To Net: NetName=KSZ_RXD5_0 Pin=R31-1
+Added Pin To Net: NetName=KSZ_RXD5_1 Pin=R32-1
+Added Pin To Net: NetName=KSZ_RXD5_2 Pin=R33-1
+Added Pin To Net: NetName=KSZ_RXD5_3 Pin=R35-1
+Added Pin To Net: NetName=KSZ_RXD5_CTL Pin=R36-1
+Added Pin To Net: NetName=KSZ_GRXC5 Pin=R37-1
+Change Net Color : Old Net Color=Black New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=Aqua New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=Lime New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(74, 134, 232) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(255, 153, 0) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(255, 153, 0) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(255, 153, 0) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(255, 153, 0) New Net Color=RGB(153, 0, 255)
+Added Member To Class: ClassName=GRMII_RX Member=Wire KSZ_GRXC5
+Added Member To Class: ClassName=GRMII_TX Member=Wire KSZ_GTXC5
+Added Member To Class: ClassName=GRMII_RX Member=Wire KSZ_RXD5_0
+Added Member To Class: ClassName=GRMII_RX Member=Wire KSZ_RXD5_1
+Added Member To Class: ClassName=GRMII_RX Member=Wire KSZ_RXD5_2
+Added Member To Class: ClassName=GRMII_RX Member=Wire KSZ_RXD5_3
+Added Member To Class: ClassName=GRMII_RX Member=Wire KSZ_RXD5_CTL
+Added Member To Class: ClassName=GRMII_TX Member=Wire KSZ_TXD5_0
+Added Member To Class: ClassName=GRMII_TX Member=Wire KSZ_TXD5_1
+Added Member To Class: ClassName=GRMII_TX Member=Wire KSZ_TXD5_2
+Added Member To Class: ClassName=GRMII_TX Member=Wire KSZ_TXD5_3
+Added Member To Class: ClassName=GRMII_TX Member=Wire KSZ_TXD5_CTL

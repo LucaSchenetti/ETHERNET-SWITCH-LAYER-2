@@ -1,0 +1,15 @@
+Added Component: Designator=D4(LED_0603_RED)
+Added Component: Designator=R60(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R60-1
+Added Pin To Net: NetName=MCU_LED_A Pin=D4-A
+Added Pin To Net: NetName=MCU_LED_A Pin=U8-4
+Added Net: Name=MCU_LED_A
+Added Pin To Net: NetName=MCU_LED_K Pin=D4-K
+Added Pin To Net: NetName=MCU_LED_K Pin=R60-2
+Added Net: Name=MCU_LED_K
+Added Member To Class: ClassName=MCU Member=Component D4 RED
+Added Member To Class: ClassName=MCU Member=Component R60 1K

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=RJ45_FE_3 Pin=J4-t
+Removed Pin From Net: NetName=RTL_RST Pin=U4-12
+Change Component Comment : Designator=R8 Old Comment=R0402 New Comment=22R
+Change Component Comment : Designator=R9 Old Comment=R0402 New Comment=22R
+Change Component Comment : Designator=R10 Old Comment=R0402 New Comment=22R
+Change Component Comment : Designator=R11 Old Comment=R0402 New Comment=22R
+Change Component Comment : Designator=R13 Old Comment=R0402 New Comment=22R
+Change Component Comment : Designator=R15 Old Comment=R0402 New Comment=22R
+Change Component Description : Designator=R8 Old Description=Resistor SMD 0402 New Description=[C25092]
+Change Component Description : Designator=R9 Old Description=Resistor SMD 0402 New Description=[C25092]
+Change Component Description : Designator=R10 Old Description=Resistor SMD 0402 New Description=[C25092]
+Change Component Description : Designator=R11 Old Description=Resistor SMD 0402 New Description=[C25092]
+Change Component Description : Designator=R13 Old Description=Resistor SMD 0402 New Description=[C25092]
+Change Component Description : Designator=R15 Old Description=Resistor SMD 0402 New Description=[C25092]
+Added Component: Designator=C70(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=RTL_RST Pin=R59-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=RTL_RST_RC Pin=C70-2
+Added Pin To Net: NetName=RTL_RST_RC Pin=R59-2
+Added Pin To Net: NetName=RTL_RST_RC Pin=U4-12
+Added Net: Name=RTL_RST_RC
+Added Member To Class: ClassName=PHY_ETH Member=Component C70 10u
+Added Member To Class: ClassName=PHY_ETH Member=Component R59 21K5

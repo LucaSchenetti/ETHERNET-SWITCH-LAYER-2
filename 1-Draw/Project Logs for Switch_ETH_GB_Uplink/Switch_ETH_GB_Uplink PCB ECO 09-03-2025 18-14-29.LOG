@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MCU_LEDG Pin=U8-10
+Removed Pin From Net: NetName=MCU_LEDB Pin=U8-11
+Removed Pin From Net: NetName=MCU_LEDR Pin=U8-12
+Added Pin To Net: NetName=MCU_LEDG Pin=U8-40
+Added Pin To Net: NetName=MCU_LEDB Pin=U8-41
+Added Pin To Net: NetName=MCU_LEDR Pin=U8-42

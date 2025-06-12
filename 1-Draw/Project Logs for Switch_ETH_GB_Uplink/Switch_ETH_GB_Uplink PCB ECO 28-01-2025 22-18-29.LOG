@@ -1,0 +1,9 @@
+Change Component Description : Designator=C7 Old Description=Capacitor SMD 0603 [C60077] New Description=Capacitor SMD 0603 [C59461]
+Change Component Description : Designator=C8 Old Description=Capacitor SMD 0603 [C60077] New Description=Capacitor SMD 0603 [C59461]
+Added Component: Designator=TVS1(SRV05-4)
+Added Pin To Net: NetName=RJ0_TX_P Pin=TVS1-1
+Added Pin To Net: NetName=GND Pin=TVS1-2
+Added Pin To Net: NetName=RJ0_TX_N Pin=TVS1-3
+Added Pin To Net: NetName=RJ0_RX_P Pin=TVS1-4
+Added Pin To Net: NetName=RJ0_RX_N Pin=TVS1-6
+Added Member To Class: ClassName=Switch_ETH Member=Component TVS1 ESD 5A 75W 12.5V 6V Bidirectional 5V

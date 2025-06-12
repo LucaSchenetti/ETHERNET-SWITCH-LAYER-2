@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=USB-C_MCU_D_N Pin=U6-2
+Removed Pin From Net: NetName=USB-C_MCU_D_P Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=USB-C_MCU_D_N Pin=U6-5
+Removed Member From Class: ClassName=MCU Member=U6
+Added Component: Designator=U?(TPD2E2U06DRLR)
+Added Pin To Net: NetName=USB-C_MCU_D_N Pin=U?-2
+Added Pin To Net: NetName=USB-C_MCU_D_P Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=USB-C_MCU_D_N Pin=U?-5
+Added Member To Class: ClassName=MCU Member=Component U? TVS USB 2.0 ±25-kV
