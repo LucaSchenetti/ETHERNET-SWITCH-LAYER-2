@@ -1,6 +1,0 @@
-Added Component: Designator=U6(TPD2E2U06DRLR)
-Added Pin To Net: NetName=USB-C_MCU_D_N Pin=U6-2
-Added Pin To Net: NetName=USB-C_MCU_D_P Pin=U6-3
-Added Pin To Net: NetName=GND Pin=U6-4
-Added Pin To Net: NetName=USB-C_MCU_D_N Pin=U6-5
-Added Member To Class: ClassName=MCU Member=Component U6 TVS USB 2.0 ±25-kV

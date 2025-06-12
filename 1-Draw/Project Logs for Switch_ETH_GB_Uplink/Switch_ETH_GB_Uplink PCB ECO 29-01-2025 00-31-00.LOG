@@ -1,7 +1,0 @@
-Added Component: Designator=TVS3(SRV05-4)
-Added Pin To Net: NetName=RJ2_TX_P Pin=TVS3-1
-Added Pin To Net: NetName=GND Pin=TVS3-2
-Added Pin To Net: NetName=RJ2_RX_P Pin=TVS3-3
-Added Pin To Net: NetName=RJ2_RX_N Pin=TVS3-4
-Added Pin To Net: NetName=RJ2_TX_N Pin=TVS3-6
-Added Member To Class: ClassName=Switch_ETH Member=Component TVS3 ESD 5A 75W 12.5V 6V Bidirectional 5V

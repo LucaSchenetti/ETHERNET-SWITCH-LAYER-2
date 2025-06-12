@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=RJ2_RX_P Pin=TVS3-1
-Removed Pin From Net: NetName=RJ2_TX_P Pin=TVS3-3
-Removed Pin From Net: NetName=RJ2_TX_N Pin=TVS3-4
-Removed Pin From Net: NetName=RJ2_RX_N Pin=TVS3-6
-Added Pin To Net: NetName=RJ2_TX_P Pin=TVS3-1
-Added Pin To Net: NetName=RJ2_RX_P Pin=TVS3-3
-Added Pin To Net: NetName=RJ2_RX_N Pin=TVS3-4
-Added Pin To Net: NetName=RJ2_TX_N Pin=TVS3-6

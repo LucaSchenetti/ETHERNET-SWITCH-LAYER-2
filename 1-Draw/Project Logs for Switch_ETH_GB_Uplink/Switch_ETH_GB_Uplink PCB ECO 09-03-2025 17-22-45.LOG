@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=MCU_LEDR Pin=U8-10
-Removed Pin From Net: NetName=MCU_LEDB Pin=U8-12
-Added Pin To Net: NetName=MCU_LEDB Pin=U8-10
-Added Pin To Net: NetName=MCU_LEDR Pin=U8-12
-Added Member To Class: ClassName=PHY_ETH Member=Component C54 15p
-Added Member To Class: ClassName=MCU Member=Component U8 ARM® Cortex®-M4 STM32F4

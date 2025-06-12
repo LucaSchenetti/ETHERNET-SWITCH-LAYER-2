@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ETH_MDI0_N Pin=TVS5-3
-Removed Pin From Net: NetName=ETH_MDI1_N Pin=TVS5-6
-Added Pin To Net: NetName=ETH_MDI1_N Pin=TVS5-3
-Added Pin To Net: NetName=ETH_MDI0_N Pin=TVS5-6

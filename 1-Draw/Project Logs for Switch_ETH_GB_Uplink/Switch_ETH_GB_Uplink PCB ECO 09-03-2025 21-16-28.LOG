@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=MCU_KSZ_RST Pin=U8-26
-Removed Pin From Net: NetName=KSZ_PME_N Pin=U8-27
-Added Pin To Net: NetName=KSZ_PME_N Pin=U8-26
-Added Pin To Net: NetName=MCU_KSZ_RST Pin=U8-27
