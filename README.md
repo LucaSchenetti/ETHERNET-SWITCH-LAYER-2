@@ -23,3 +23,5 @@ Industrial automation
 Custom router/switch development
 
 Educational tool for learning about Ethernet switching and embedded networking
+
+![Top View](https://github.com/user-attachments/assets/e40fa168-439b-4011-bbd7-5ecb07f94f53)
